@@ -1,0 +1,66 @@
+*{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+    text-decoration: underline;
+    color: #F2BE22;
+    text-align: center;
+}
+
+h2{
+    color: #A6874E;
+    
+}
+
+body{
+    background-color: #DAFDBA;
+}
+#comeco{
+    background-color: #198a6e;
+    width: 1400px;
+    height: 750px;
+    margin: 50px auto;
+
+}
+
+#parque{
+    background-color: #198a6e;
+    width: 1400px;
+    height: 1500px;
+    margin: 50px auto;
+}
+
+#pesca{
+    background-color: #198a6e;
+    width: 1400px;
+    height: 1600px;
+    margin: 50px auto;
+}
+
+#morro{
+    background-color: #198a6e;
+    width: 1400px;
+    height: 1540px;
+    margin: 50px auto;
+}
+
+#igreja{
+    background-color: #198a6e;
+    width: 1400px;
+    height: 1630px;
+    margin: 50px auto;
+}
+
+#poco{
+    background-color: #198a6e;
+    width: 1400px;
+    height: 1440px;
+    margin: 50px auto;
+}
+
+img{
+    width: 100%;
+}
